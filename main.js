@@ -10,7 +10,7 @@ function posicionSlide(n){
 }
 setInterval(function tiempo(){
     muestraSlides(indice+=1)
-},8200);
+},10500);
 
 function muestraSlides(n){
     let i;
